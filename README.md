@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Julie a JS web developer living in Lorient in Brittany. I took the DWWM course at the O'clock School in 2004: https://oclock.io/</p>
+<p align="left">I am Julie a JS web developer living in Lorient in Brittany. I took the DWWM course at the O'clock School in 2024: https://oclock.io/</p>
 
 ###
 
